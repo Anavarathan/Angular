@@ -2,8 +2,8 @@
   "name": "angular",
   "version": "0.0.0",
   "scripts": {
-    "start": "node Server.js",
     "ng": "ng",
+    "start": "ng serve -o",
     "build": "ng build",
     "test": "ng test",
     "lint": "ng lint",
